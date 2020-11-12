@@ -10,5 +10,5 @@ RUN apt-get install --yes curl
 RUN apt-get install --yes wget
 
 COPY Merienda-Regular.ttf /fonts/
-RUN mkdir /img
-WORKDIR /img
+RUN mkdir /images
+WORKDIR /images

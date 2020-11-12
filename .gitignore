@@ -1,1 +1,4 @@
-output/*
+*.aux
+*.log
+*.pdf
+output.jpg
